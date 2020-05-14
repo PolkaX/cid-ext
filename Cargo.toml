@@ -1,0 +1,10 @@
+[package]
+name = "cid-ext"
+version = "0.1.0"
+authors = ["The PolkaX Authors"]
+edition = "2018"
+license = "GPL-3.0"
+
+[dependencies]
+cid = "0.5"
+multihash = "0.11"
